@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jshawl/require-esm-imports#readme",
   "dependencies": {
-    "beeper": "^2.1.0"
+    "beeper": "^3.0.0"
   }
 }
